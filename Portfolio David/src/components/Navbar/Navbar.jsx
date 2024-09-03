@@ -21,7 +21,7 @@ class Navbar extends Component {
             <li><a href="" className='active'>Home</a></li>
             <li><a href="">Skills</a></li>
             <li><a href="">Education</a></li>
-            <li><a href="">Experience</a></li>
+            <li><a href="">Proyects</a></li>
             <li><a href="">Contact</a></li>
           </ul>
           <div id='mobile' onClick={this.handleCLick}>
